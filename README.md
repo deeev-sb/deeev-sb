@@ -68,10 +68,8 @@ Here are some ideas to get you started:
 <img src="./svg/dev/tool/pycharm.svg" alt="pyCharm" />
 
 </div>
+
 <br />
-
----
-
 <br />
 <details>
 <summary><b>Github Stats🐤</b><i>(click to expand!)</i></summary>
