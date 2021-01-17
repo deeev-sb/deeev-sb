@@ -22,7 +22,8 @@ Here are some ideas to get you started:
   <h3>I'm Subin🐰, a goal-oriented and passionate.<br />
   I’m currently learning spring, docker, Kubernetes.😎
   </h3><br />
-  <a href="2504sb@gmail.com"><img src="../Kim-SuBin/svg/social/gmail.svg" /></a>
+  
+   [![Gmail Badge](./svg/social/gmail.svg)](mailto:2504sb@gmail.com)
   <a href="https://subin-0320.tistory.com/"><img src="./svg/social/tistory.svg" alt="subin's blog" /></a>
   <a href="https://www.linkedin.com/in/subin-kim-4933401ab/"><img src="./svg/social/linkedin.svg" alt="subin's linkedin" /></a>
   <!-- <a herf="https://www.youtube.com/channel/UCerox7diybjCKTNXfrqN-7g"><img src="./svg/streaming/youtube.svg" alt="subin's youtube" /></a> -->
@@ -58,9 +59,9 @@ Here are some ideas to get you started:
 <img src="./svg/dev/framework/django.svg" alt="django" />
 <img src="./svg/dev/framework/vue-dot-js.svg" alt="vue.js" />
 <img src="./svg/dev/framework/spring.svg" alt="spring" />
-<img src="./svg/dev/service/amazonaws.svg" alt="amazonaws" />
 <img src="./svg/dev/platform/docker.svg" alt="docker" />
 <img src="./svg/dev/platform/kubernetes.svg" alt="kubernetes" />
+<img src="./svg/dev/service/amazonaws.svg" alt="amazonaws" />
 <img src="./svg/dev/tool/figma.svg" alt="figma" />
 <img src="./svg/dev/tool/intellijidea.svg" alt="intelliJ" />
 <img src="./svg/dev/tool/visualstudiocode.svg" alt="VScode" />
