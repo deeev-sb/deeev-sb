@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 
 
 
-<div style="text-align:center">
+<div align="center">
   <h2>Hi, guys!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
   <h3>I'm Subin🐰, a goal-oriented and passionate.<br />
   I’m currently learning spring, docker, Kubernetes.😎
   </h3><br />
-  <a href="mailto:2504sb@gmail.com" title="contact subin"><img src="../Kim-SuBin/svg/social/gmail.svg" /></a>
+  <a href="2504sb@gmail.com"><img src="../Kim-SuBin/svg/social/gmail.svg" /></a>
   <a href="https://subin-0320.tistory.com/"><img src="./svg/social/tistory.svg" alt="subin's blog" /></a>
   <a href="https://www.linkedin.com/in/subin-kim-4933401ab/"><img src="./svg/social/linkedin.svg" alt="subin's linkedin" /></a>
   <!-- <a herf="https://www.youtube.com/channel/UCerox7diybjCKTNXfrqN-7g"><img src="./svg/streaming/youtube.svg" alt="subin's youtube" /></a> -->
 </div>
 
 <br />
-<div style="text-align:center">
+<div align="center">
 
   ![Profile views](https://gpvc.arturio.dev/Kim-SuBin)
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<div style="text-align:center">
+<div align="center">
 
 <h3>💙Languages and Tools💙</h3>
 
