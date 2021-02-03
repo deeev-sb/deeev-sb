@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 <img src="./svg/dev/languages/css3.svg" alt="css3" />
 <img src="./svg/dev/languages/html5.svg" alt="html5" />
 <img src="./svg/dev/languages/javascript.svg" alt="javascript" />
-<img src="./svg/dev/languages/mysql.svg" alt="mysql" />
+<img src="./svg/dev/system/mysql.svg" alt="mysql" />
+<img src="./svg/dev/system/h2.svg" alt="h2" />
 <img src="./svg/dev/languages/gnubash.svg" alt="gnubash" />
 <img src="./svg/dev/library/jquery.svg" alt="jquery" />
 <img src="./svg/dev/library/bootstrap.svg" alt="bootstrap" />
