@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>Hi, guys!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
   <h3>I'm Subin🐰, a goal-oriented and passionate.<br />
-  I’m currently learning spring, docker, Kubernetes.😎
+  I’m currently learning Spring, Docker, Kubernetes.😎
   </h3><br />
   
    [![Gmail Badge](./svg/social/gmail.svg)](mailto:2504sb@gmail.com)
@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 <img src="./svg/dev/languages/python.svg" alt="python" />
 <img src="./svg/dev/languages/java.svg" alt="java" />
+<img src="./svg/dev/languages/c.svg" alt="c" />
+<img src="./svg/dev/languages/cplusplus.svg" alt="cpp" />
 <img src="./svg/dev/languages/css3.svg" alt="css3" />
 <img src="./svg/dev/languages/html5.svg" alt="html5" />
 <img src="./svg/dev/languages/javascript.svg" alt="javascript" />
@@ -72,12 +74,21 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+<details>
+<summary><b>BOJ Plofile👩‍💻</b><i>(click to expand!)</i></summary>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2504sb)](https://solved.ac/2504sb)
+
+</details>
+
 <details>
 <summary><b>Github Stats🐤</b><i>(click to expand!)</i></summary>
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kim-SuBin)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
 
 <!--
 
