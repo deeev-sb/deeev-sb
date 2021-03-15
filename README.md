@@ -48,18 +48,13 @@ Here are some ideas to get you started:
 
 <img src="./svg/dev/languages/python.svg" alt="python" />
 <img src="./svg/dev/languages/java.svg" alt="java" />
-<img src="./svg/dev/languages/c.svg" alt="c" />
-<img src="./svg/dev/languages/cplusplus.svg" alt="cpp" />
 <img src="./svg/dev/languages/css3.svg" alt="css3" />
 <img src="./svg/dev/languages/html5.svg" alt="html5" />
 <img src="./svg/dev/languages/javascript.svg" alt="javascript" />
-<img src="./svg/dev/system/mysql.svg" alt="mysql" />
-<img src="./svg/dev/system/h2.svg" alt="h2" />
-<img src="./svg/dev/languages/gnubash.svg" alt="gnubash" />
 <img src="./svg/dev/library/jquery.svg" alt="jquery" />
+<img src="./svg/dev/system/mysql.svg" alt="mysql" />
+<img src="./svg/dev/languages/gnubash.svg" alt="gnubash" />
 <img src="./svg/dev/library/bootstrap.svg" alt="bootstrap" />
-<img src="./svg/dev/library/thymeleaf.svg" alt="thymleaf" />
-<img src="./svg/dev/framework/django.svg" alt="django" />
 <img src="./svg/dev/framework/vue-dot-js.svg" alt="vue.js" />
 <img src="./svg/dev/framework/spring.svg" alt="spring" />
 <img src="./svg/dev/platform/docker.svg" alt="docker" />
@@ -91,6 +86,12 @@ Here are some ideas to get you started:
 
 
 <!--
+자주 안쓰는건 빼두자 :D
+<img src="./svg/dev/languages/c.svg" alt="c" />
+<img src="./svg/dev/languages/cplusplus.svg" alt="cpp" />
+<img src="./svg/dev/library/thymeleaf.svg" alt="thymleaf" />
+<img src="./svg/dev/system/h2.svg" alt="h2" />
+<img src="./svg/dev/framework/django.svg" alt="django" />
 
 <h3> My favorite Repositories </h3>
 
