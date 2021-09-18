@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>Hi, guys!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
   <h3>I'm Subin🐰, a goal-oriented and passionate.<br />
-  I’m currently learning Spring, Docker, Kubernetes.😎
+  I’m currently learning Spring.😎
   </h3><br />
   
    [![Gmail Badge](./svg/social/gmail.svg)](mailto:2504sb@gmail.com)
