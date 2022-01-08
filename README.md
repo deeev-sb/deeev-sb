@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 </div>
 
 <br />
-<div align="center">
+<!-- <div align="center">
 
   ![Profile views](https://gpvc.arturio.dev/Kim-SuBin)
 
-</div>
+</div> -->
 
 <br />
 
