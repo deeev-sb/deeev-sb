@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 </div> -->
 
-<br />
+<!-- <br /> -->
 
----
+<!-- --- -->
 
-<br />
+<!-- <br /> -->
 
 <div align="center">
 
