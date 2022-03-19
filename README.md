@@ -46,9 +46,7 @@ Here are some ideas to get you started:
 
 <!-- <h3>💙Languages and Tools💙</h3> -->
 
-<img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/source.gif" height="60" />
-
-  <br />
+  <h2><img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/source.gif" height="40">Developer<img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/source.gif" height="40"></h2>
   
   <img src="./svg/dev/languages/java.svg" alt="java" />
   <img src="./svg/dev/languages/python.svg" alt="python" />
@@ -72,6 +70,9 @@ Here are some ideas to get you started:
 </div>
 
 <br />
+
+---
+
 <br />
 
 <details>
