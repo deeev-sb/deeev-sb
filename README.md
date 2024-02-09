@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 <details>
 <summary><b>Github Stats🐤</b><i>(click to expand!)</i></summary>
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kim-SuBin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deeev-sb)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
